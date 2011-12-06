@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://XMLSDK.github.com
-title: My Octopress Blog
+title: My Octopress Blog 八爪博
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: XMLSDK (Simon Chow)
 simple_search: http://google.com/search
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
