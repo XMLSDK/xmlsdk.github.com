@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog 八爪博]]></title>
-  <link href="http://XMLSDK.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: selfchat | My Octopress Blog 八爪博]]></title>
+  <link href="http://XMLSDK.github.com/blog/categories/selfchat/atom.xml" rel="self"/>
   <link href="http://XMLSDK.github.com/"/>
   <updated>2011-12-06T14:35:08+08:00</updated>
   <id>http://XMLSDK.github.com/</id>
